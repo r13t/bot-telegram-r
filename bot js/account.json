@@ -1,0 +1,22 @@
+[
+    {
+        "code": "asse",
+        "asss": [
+            {
+                "username": "example1@gmail.com",
+                "password": "password1",
+                "info": "معلومات المستخدم 1"
+            }
+        ]
+    },
+    {
+        "code": "xyz",
+        "asss": [
+            {
+                "username": "example2@gmail.com",
+                "password": "password2",
+                "info": "معلومات المستخدم 2"
+            }
+        ]
+    }
+]
